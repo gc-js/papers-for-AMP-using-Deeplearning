@@ -92,7 +92,7 @@
 |  2021 | Antimicrobial peptides: An update on classifications and databases|     [International journal of molecular sciences](https://www.mdpi.com/1422-0067/22/21/11691)     |     None     |
 |  2022 | Synthetic molecular evolution of antimicrobial peptides|     [Current Opinion in Biotechnology](https://www.sciencedirect.com/science/article/abs/pii/S0958166922000519)     |    None    |
 |  2021 | Synthetic biology and computer-based frameworks for antimicrobial peptide discovery|     [ACS nano](https://pubs.acs.org/doi/10.1021/acsnano.0c09509)     |   None    |
-|  2021 | Computational methods and tools in antimicrobial peptide research|     [Journal of Chemical Information and Modeling](Computational methods and tools in antimicrobial peptide research)     |    None    |
+|  2021 | Computational methods and tools in antimicrobial peptide research|     [Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00175)     |    None    |
 |  2022 | Emerging Computational Approaches for Antimicrobial Peptide Discovery|     [Antibiotics](https://www.mdpi.com/2079-6382/11/7/936)     |     None    |
 |  2021 | A review of artificial intelligence applications for antimicrobial resistance|     [Biosafety and Health](https://www.sciencedirect.com/science/article/pii/S2590053620300872)     |     None      |
 |  2022 | De novo peptide and protein design using generative adversarial networks: an update|     [Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01361)     |    None       |
